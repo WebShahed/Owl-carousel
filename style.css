@@ -1,0 +1,14 @@
+#hello{
+	height:35px;
+	width:136px;
+	background:linear-gradient(salmon,yellow);
+	border:1px ridge green;
+	border-radius:20px 0px 20px 0px;
+	cursor:pointer;
+	
+}
+.content_area img{
+	height:400px;
+	width:400px;
+
+}
